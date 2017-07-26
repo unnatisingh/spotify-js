@@ -109,4 +109,4 @@ $(function () {
     var url = spotify.implicitGrantFlow(window.location.href)
     button.attr('href', url)
   }
-})
+}) 
